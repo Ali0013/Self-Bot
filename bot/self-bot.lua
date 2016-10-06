@@ -223,7 +223,7 @@ function create_config( )
     "help",
     "dl-file",
     "savefile",
-    "groupmanager",
+    "groupmanager",190409149
     "on-off",
     "version",
     "solid"
